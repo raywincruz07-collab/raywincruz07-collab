@@ -77,20 +77,40 @@ An applied AI project focused on logistics use cases such as forecasting, route 
 
 ## Technical Stack
 
-**Programming & Data**  
-Python · SQL · R · Pandas · NumPy · Jupyter
+**Programming & Data**
 
-**Machine Learning & Analytics**  
-Scikit-learn · Classification · Regression · Model Evaluation · Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**GenAI & Retrieval**  
-RAG · LLM Evaluation · Prompt Engineering · Information Retrieval · AI Workflows
+**Machine Learning & Analytics**
 
-**Tools & Engineering**  
-Git · Docker · Power BI · Notebook-based experimentation · Documentation
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-111827?style=for-the-badge)
 
-**Product & Communication**  
-AI Product Management · Stakeholder Communication · Business Framing · Technical Documentation
+**GenAI & Retrieval**
+
+![RAG](https://img.shields.io/badge/RAG-Generative_AI-111827?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-4B5563?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-374151?style=for-the-badge)
+![Information Retrieval](https://img.shields.io/badge/Information_Retrieval-1F2937?style=for-the-badge)
+
+**Tools & Engineering**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Product & Business**
+
+![AI Product Management](https://img.shields.io/badge/AI_Product_Management-0F172A?style=for-the-badge)
+![SAP HANA Cloud](https://img.shields.io/badge/SAP_HANA_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-334155?style=for-the-badge)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-475569?style=for-the-badge)
 
 ---
 
