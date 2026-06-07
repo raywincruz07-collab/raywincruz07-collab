@@ -1,53 +1,18 @@
-# Hi, I'm Raywin Cruz
+# Raywin Cruz
 
-<p align="center">
-  <img src="./assets/github-banner.png" alt="Raywin Cruz GitHub Banner" width="100%" />
-</p>
+M.Sc. Data Science student at the University of Mannheim, focused on **AI Product Management, Data Science, GenAI/RAG evaluation, and SAP HANA Cloud**.
 
-M.Sc. Data Science student at the University of Mannheim, working at the intersection of AI product management, data science, and GenAI systems.
-
-Currently focused on **AI Product Management at SAP HANA Cloud**, **Retrieval-Augmented Generation**, **machine learning evaluation**, and **data-driven product development**.
+I build practical AI and data systems with an emphasis on reliable evaluation, business impact, and clear technical communication.
 
 ---
 
-## About Me
+## Current Focus
 
-I build and analyze AI/data systems with a focus on practical business impact, reliable evaluation, and clear technical communication.
-
-- Currently working on: AI Product Management and SAP HANA Cloud topics
-- Studying: M.Sc. Data Science at the University of Mannheim
-- Interests: GenAI, RAG, AI evaluation, ML systems, data engineering, product analytics
-- Open to: Working student roles in AI, Data Science, Product Analytics, and Data Engineering
-- Portfolio: [raywincruz07-collab.github.io](https://raywincruz07-collab.github.io/)
-
----
-
-## Tech Stack
-
-### Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Machine Learning & AI
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### GenAI & Development
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Generative_AI-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+- AI Product Management and SAP HANA Cloud
+- Retrieval-Augmented Generation and LLM evaluation
+- Machine Learning and Data Science workflows
+- Data-driven product thinking and analytics
+- Building reproducible, well-documented technical projects
 
 ---
 
@@ -57,58 +22,55 @@ I build and analyze AI/data systems with a focus on practical business impact, r
 
 Evaluation-focused RAG project analyzing how retrieval systems handle diversity-aware information needs.
 
-- Built retrieval and evaluation pipeline for RAG experiments
-- Compared retrieval quality across different query and document settings
-- Focused on practical evaluation, not just demo-level chatbot output
-- Tech: Python, Jupyter Notebook, RAG, Information Retrieval, Evaluation
+**Focus:** RAG evaluation, information retrieval, query/document analysis, evaluation quality  
+**Tech:** Python, Jupyter Notebook, RAG, Information Retrieval
 
 ---
 
 ### [AI Product Development: Discourse Analysis](https://github.com/raywincruz07-collab/AI-PRODUCT-DEVELOPMENT-Discourse-Analysis)
 
-AI product development project focused on analyzing discourse patterns and deriving structured insights.
+AI product development project focused on analyzing discourse patterns and extracting structured insights from text.
 
-- Worked with textual data and analytical workflows
-- Connected AI analysis with product/business interpretation
-- Built outputs suitable for stakeholder-facing explanation
-- Tech: Python, NLP, Data Analysis
+**Focus:** NLP, product analysis, text analytics, stakeholder-facing insights  
+**Tech:** Python, NLP, Data Analysis
 
 ---
 
 ### [Economic Framing Annotation](https://github.com/raywincruz07-collab/economic-framing-annotation)
 
-Data annotation and analysis project focused on economic framing in text data.
+Annotation and analysis project focused on economic framing in text data.
 
-- Designed structured annotation logic
-- Worked with classification-style labeling decisions
-- Focused on consistency, interpretation, and analysis quality
-- Tech: R, Annotation, Data Analysis
+**Focus:** Annotation logic, classification-style labeling, consistency, interpretability  
+**Tech:** R, Annotation, Data Analysis
 
 ---
 
 ### [AI Logistics Management System](https://github.com/raywincruz07-collab/ai_logistics_management_system)
 
-AI-based logistics project focused on demand forecasting, route optimization, and operational visibility.
+AI-based logistics project focused on forecasting, route optimization, and operational decision support.
 
-- Applied AI/ML ideas to logistics and supply-chain use cases
-- Built project structure around real-world operational problems
-- Focused on business efficiency, decision support, and automation
-- Tech: Python, Machine Learning, Data Analysis
+**Focus:** Applied ML, logistics analytics, supply-chain use cases  
+**Tech:** Python, Machine Learning, Data Analysis
 
 ---
 
-## Current Focus
+## Technical Areas
 
-```text
-AI Product Management | SAP HANA Cloud | GenAI/RAG Evaluation | Data Science | Machine Learning
-```
-
-I am currently improving my GitHub projects to make them more reproducible, well-documented, and useful for recruiters, hiring managers, and technical reviewers.
+**Programming & Data:** Python, SQL, R, Pandas, NumPy  
+**Machine Learning:** Scikit-learn, model evaluation, classification, regression  
+**GenAI:** RAG, LLM evaluation, prompt engineering, AI workflows  
+**Tools:** Git, Docker, Jupyter, Power BI  
+**Product & Business:** AI product management, stakeholder communication, business-focused analytics
 
 ---
 
-## Connect
+## Portfolio
 
-* Portfolio: [raywincruz07-collab.github.io](https://raywincruz07-collab.github.io/)
-* LinkedIn: [linkedin.com/in/raywincruz](https://www.linkedin.com/in/raywincruz/)
-* Email: raywincruz07@gmail.com
+[raywincruz07-collab.github.io](https://raywincruz07-collab.github.io/)
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/raywincruz](https://www.linkedin.com/in/raywincruz/)
+- Email: raywincruz07@gmail.com
