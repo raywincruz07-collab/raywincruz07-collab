@@ -1,5 +1,9 @@
 # Hi, I'm Raywin Cruz
 
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Raywin Cruz GitHub Banner" width="100%" />
+</p>
+
 M.Sc. Data Science student at the University of Mannheim, working at the intersection of AI product management, data science, and GenAI systems.
 
 Currently focused on **AI Product Management at SAP HANA Cloud**, **Retrieval-Augmented Generation**, **machine learning evaluation**, and **data-driven product development**.
