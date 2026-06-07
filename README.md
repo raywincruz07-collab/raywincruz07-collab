@@ -106,5 +106,5 @@ I am currently improving my GitHub projects to make them more reproducible, well
 ## Connect
 
 * Portfolio: [raywincruz07-collab.github.io](https://raywincruz07-collab.github.io/)
-* LinkedIn: Add your LinkedIn link here
-* Email: Add professional email only if comfortable making it public
+* LinkedIn: linkedin.com/in/raywincruz
+* Email: raywincruz07@gmail.com
