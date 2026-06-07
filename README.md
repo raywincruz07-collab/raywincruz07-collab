@@ -140,4 +140,4 @@ Problem → Method → Evaluation → Business relevance
 ## Contact
 
 * GitHub: [raywincruz07-collab](https://github.com/raywincruz07-collab)
-* Email: Available on request
+* Email: raywincruz07@gmail.com
