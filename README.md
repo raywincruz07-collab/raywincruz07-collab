@@ -1,152 +1,143 @@
-# Hi, I'm Raywin Cruz
+# Raywin Cruz
 
-**M.Sc. Data Science @ University of Mannheim | AI Product Management @ SAP HANA Cloud | Applied AI, RAG & ML Systems**
+**M.Sc. Data Science @ University of Mannheim**  
+**AI Product Management · SAP HANA Cloud · GenAI/RAG · Data Science · Machine Learning**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raywincruz)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=flat&logo=google-chrome&logoColor=white)](https://raywincruz07-collab.github.io/)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:raywincruz07@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/raywincruz07-collab)
+I work at the intersection of **AI product thinking, data science, and applied GenAI systems**. My focus is on building and evaluating AI/data solutions that are technically clear, reproducible, and connected to real business problems.
 
 ---
 
-## Professional Summary
+## Focus Areas
 
-I'm a Master's student in Data Science at the University of Mannheim, focused on building applied AI, data science, and product-oriented ML systems. My work connects machine learning, RAG evaluation, LLM-based workflows, and AI product thinking with practical business impact.
-
----
-
-## Current Focus
-
-- **Enterprise AI Systems:** AI Product Management and SAP HANA Cloud topics.
-
-- **RAG & LLM Workflows:** Evaluation-driven approach to Retrieval-Augmented Generation.
-
-- **Data-Centric AI:** Knowledge Graphs, Data Mining, and Machine Learning workflows.
-
-- **Engineering Excellence:** Building production-ready, clean, and reproducible portfolio projects.
-
-- **Product Thinking:** Aligning technical AI capabilities with business constraints and user needs.
+- AI Product Management and SAP HANA Cloud topics
+- Retrieval-Augmented Generation and LLM evaluation
+- Machine learning workflows and model evaluation
+- Information retrieval, annotation, and data-centric AI
+- Product analytics, stakeholder communication, and business-focused AI
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### [Context Matters: Diversity-Aware Retrieval for RAG](https://github.com/raywincruz07-collab/Context-Matters-Evaluating-Diversity-Aware-Retrieval-for-RAG)
+### [Context Matters: Evaluating Diversity-Aware Retrieval for RAG](https://github.com/raywincruz07-collab/Context-Matters-Evaluating-Diversity-Aware-Retrieval-for-RAG)
 
-Evaluation-focused RAG project exploring retrieval fairness, diversity, and context quality.
+A retrieval evaluation project focused on how RAG systems handle diversity-aware information needs.
 
-* **Focus:** RAG evaluation, information retrieval, query/document analysis, evaluation quality
+**What it demonstrates**
+- Retrieval pipeline design
+- Query and document analysis
+- Evaluation-oriented thinking beyond chatbot demos
+- Practical understanding of RAG limitations and retrieval quality
 
-* **Tech Stack:** Python · RAG · LLMs · Evaluation · NLP
+**Tech:** Python, Jupyter Notebook, RAG, Information Retrieval, Evaluation
 
-### AI Developer Enablement Platform
+---
 
-LLM-powered knowledge hub for helping developers access AI concepts, tools, and workflows.
+### [AI Product Development: Discourse Analysis](https://github.com/raywincruz07-collab/AI-PRODUCT-DEVELOPMENT-Discourse-Analysis)
 
-*_Private/internal project — public case study coming soon._*
+A text analytics project focused on extracting structured insights from discourse data and connecting technical analysis with product interpretation.
 
-* **Focus:** LLMs, RAG, Prompt Engineering, Python
+**What it demonstrates**
+- NLP workflow design
+- Text analysis and structured insight generation
+- Product-oriented communication of AI outputs
+- Analytical thinking for stakeholder-facing use cases
 
-* **Tech Stack:** LLMs · RAG · Prompt Engineering · Python
+**Tech:** Python, NLP, Data Analysis
 
-### [Personal AI/Data Science Portfolio](https://github.com/raywincruz07-collab/raywincruz07-collab.github.io)
+---
 
-Portfolio website presenting AI, ML, data science, and product-focused work.
+### [Economic Framing Annotation](https://github.com/raywincruz07-collab/economic-framing-annotation)
 
-* **Focus:** UI design, performance optimization, responsive layouts, project visibility
+An annotation and analysis project focused on economic framing in textual data.
 
-* **Tech Stack:** React · TypeScript · GitHub Pages
+**What it demonstrates**
+- Annotation logic and labeling consistency
+- Classification-style reasoning
+- Data quality and interpretability
+- Structured analysis of subjective text categories
 
-### Data Mining / ML Projects
+**Tech:** R, Annotation, Data Analysis
 
-Applied machine learning and data mining projects from University of Mannheim coursework.
+---
 
-*_University coursework repository — public version coming soon._*
+### [AI Logistics Management System](https://github.com/raywincruz07-collab/ai_logistics_management_system)
 
-* **Focus:** Applied machine learning, modeling, data processing
+An applied AI project focused on logistics use cases such as forecasting, route optimization, and operational decision support.
 
-* **Tech Stack:** Python · scikit-learn · pandas · ML
+**What it demonstrates**
+- Applied machine learning for business operations
+- Supply-chain and logistics problem framing
+- AI-assisted decision support
+- Practical data science project structuring
+
+**Tech:** Python, Machine Learning, Data Analysis
 
 ---
 
 ## Technical Stack
 
-### Languages
+**Programming & Data**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Machine Learning & Analytics**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-111827?style=for-the-badge)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**GenAI & Retrieval**
 
-### AI / Data Science
+![RAG](https://img.shields.io/badge/RAG-Generative_AI-111827?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-4B5563?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-374151?style=for-the-badge)
+![Information Retrieval](https://img.shields.io/badge/Information_Retrieval-1F2937?style=for-the-badge)
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-374151?style=flat-square)
+**Tools & Engineering**
 
-![NLP](https://img.shields.io/badge/NLP-374151?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
+**Product & Business**
 
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square)
-
-![Data Mining](https://img.shields.io/badge/Data_Mining-374151?style=flat-square)
-
-![Evaluation](https://img.shields.io/badge/Evaluation-4B5563?style=flat-square)
-
-### Tools & Engineering
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Cloud & Product
-
-![SAP HANA Cloud](https://img.shields.io/badge/SAP_HANA_Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-
-![AI Product Management](https://img.shields.io/badge/AI_Product_Management-0F172A?style=flat-square)
-
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0F172A?style=flat-square)
+![AI Product Management](https://img.shields.io/badge/AI_Product_Management-0F172A?style=for-the-badge)
+![SAP HANA Cloud](https://img.shields.io/badge/SAP_HANA_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-334155?style=for-the-badge)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-475569?style=for-the-badge)
 
 ---
 
-## GitHub Overview
+## Current Direction
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raywincruz07-collab&show_icons=true&theme=github_dark" alt="Raywin Cruz GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raywincruz07-collab&layout=compact&theme=github_dark" alt="Raywin Cruz Top Languages" width="48%" />
-</p>
+I am currently strengthening my work around:
 
----
+- AI product development and SAP HANA Cloud topics
+- RAG evaluation and retrieval quality
+- Reproducible machine learning and data science projects
+- Clear documentation for technical and non-technical reviewers
 
-## Currently Learning
+My goal is to make every project understandable from three angles:
 
-- Enterprise AI system architectures & **SAP HANA Cloud** integrations.
-
-- Production RAG evaluation frameworks & **LLM quality metrics** (faithfulness, correctness).
-
-- Knowledge Graphs & advanced Data Mining methodologies.
-
-- AI product thinking & user-focused AI system design patterns.
+```text
+Problem → Method → Evaluation → Business relevance
+```
 
 ---
 
-## Let's Connect
+## Portfolio
 
-- **LinkedIn:** [linkedin.com/in/raywincruz](https://www.linkedin.com/in/raywincruz)
+[raywincruz07-collab.github.io](https://raywincruz07-collab.github.io/)
 
-- **Portfolio:** [raywincruz07-collab.github.io](https://raywincruz07-collab.github.io/)
+---
 
-- **Email:** [raywincruz07@gmail.com](mailto:raywincruz07@gmail.com)
+## Contact
+
+* GitHub: [raywincruz07-collab](https://github.com/raywincruz07-collab)
+* Email: Available on request
