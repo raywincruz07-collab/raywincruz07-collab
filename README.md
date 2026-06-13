@@ -1,143 +1,44 @@
-# Raywin Cruz
+# Hi, I'm Raywin Cruz
+### AI Product Management, SAP HANA Cloud | M.Sc. Data Science @ Mannheim | Applied AI, RAG & ML Systems
 
-**M.Sc. Data Science @ University of Mannheim**  
-**AI Product Management · SAP HANA Cloud · GenAI/RAG · Data Science · Machine Learning**
+I am an M.Sc. Data Science student working in AI Product Management for SAP HANA Cloud, with a focus on applied AI, RAG evaluation, and reproducible machine-learning systems. My work spans multi-agent supply chain optimization, diversity-aware RAG evaluations, and LLM-assisted NLP pipelines.
 
-I work at the intersection of **AI product thinking, data science, and applied GenAI systems**. My focus is on building and evaluating AI/data solutions that are technically clear, reproducible, and connected to real business problems.
+## Featured Work
 
----
-
-## Focus Areas
-
-- AI Product Management and SAP HANA Cloud topics
-- Retrieval-Augmented Generation and LLM evaluation
-- Machine learning workflows and model evaluation
-- Information retrieval, annotation, and data-centric AI
-- Product analytics, stakeholder communication, and business-focused AI
-
----
-
-## Selected Projects
-
-### [Context Matters: Evaluating Diversity-Aware Retrieval for RAG](https://github.com/raywincruz07-collab/Context-Matters-Evaluating-Diversity-Aware-Retrieval-for-RAG)
-
-A retrieval evaluation project focused on how RAG systems handle diversity-aware information needs.
-
-**What it demonstrates**
-- Retrieval pipeline design
-- Query and document analysis
-- Evaluation-oriented thinking beyond chatbot demos
-- Practical understanding of RAG limitations and retrieval quality
-
-**Tech:** Python, Jupyter Notebook, RAG, Information Retrieval, Evaluation
-
----
-
-### [AI Product Development: Discourse Analysis](https://github.com/raywincruz07-collab/AI-PRODUCT-DEVELOPMENT-Discourse-Analysis)
-
-A text analytics project focused on extracting structured insights from discourse data and connecting technical analysis with product interpretation.
-
-**What it demonstrates**
-- NLP workflow design
-- Text analysis and structured insight generation
-- Product-oriented communication of AI outputs
-- Analytical thinking for stakeholder-facing use cases
-
-**Tech:** Python, NLP, Data Analysis
-
----
-
-### [Economic Framing Annotation](https://github.com/raywincruz07-collab/economic-framing-annotation)
-
-An annotation and analysis project focused on economic framing in textual data.
-
-**What it demonstrates**
-- Annotation logic and labeling consistency
-- Classification-style reasoning
-- Data quality and interpretability
-- Structured analysis of subjective text categories
-
-**Tech:** R, Annotation, Data Analysis
-
----
-
-### [AI Logistics Management System](https://github.com/raywincruz07-collab/ai_logistics_management_system)
-
-An applied AI project focused on logistics use cases such as forecasting, route optimization, and operational decision support.
-
-**What it demonstrates**
-- Applied machine learning for business operations
-- Supply-chain and logistics problem framing
-- AI-assisted decision support
-- Practical data science project structuring
-
-**Tech:** Python, Machine Learning, Data Analysis
-
----
+| Project | What it solves | Key evidence |
+|---|---|---|
+| [**FMCG Multi-Agent Supply Chain Optimizer**](https://github.com/raywincruz07-collab/fmcg-multi-agent-supply-chain-optimizer) | Multi-agent decision-support for demand, production, and routing | Chronological evaluation, per-SKU model selection and 23 passing tests. |
+| [**Context Matters — Medical RAG Evaluation**](https://github.com/raywincruz07-collab/Context-Matters-Evaluating-Diversity-Aware-Retrieval-for-RAG) | Retrieval quality comparison for medical question answering | ColBERTv2 best at Recall@5 = 0.751 over 1,000 PubMedQA questions |
+| [**Economic Framing Annotation**](https://github.com/raywincruz07-collab/economic-framing-annotation) | LLM-assisted annotation pipeline | F1 = 0.811 (Threat) validated against 200-row human gold standard |
+| [**Discourse Analyzer**](https://github.com/raywincruz07-collab/AI-PRODUCT-DEVELOPMENT-Discourse-Analysis) | Cross-platform narrative tracking and analysis | FastAPI-based analysis platform locally validated with 31 passing tests and a successful API startup. |
 
 ## Technical Stack
 
-**Programming & Data**
+**Languages & Core Data:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Data Science & Machine Learning:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-005C8A?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-1C3C5A?style=flat)
 
-**Machine Learning & Analytics**
+**Frameworks & Engineering:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-111827?style=for-the-badge)
+## Current Focus
+- 🔭 **Current Focus:** Exploring reliable agentic workflows and applied AI use cases for enterprise data platforms.
+- Evaluating retrieval components and generation limits in RAG architectures.
+- Engineering reproducible research pipelines using R, Python, and open-source tooling.
 
-**GenAI & Retrieval**
-
-![RAG](https://img.shields.io/badge/RAG-Generative_AI-111827?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-4B5563?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-374151?style=for-the-badge)
-![Information Retrieval](https://img.shields.io/badge/Information_Retrieval-1F2937?style=for-the-badge)
-
-**Tools & Engineering**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Product & Business**
-
-![AI Product Management](https://img.shields.io/badge/AI_Product_Management-0F172A?style=for-the-badge)
-![SAP HANA Cloud](https://img.shields.io/badge/SAP_HANA_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-334155?style=for-the-badge)
-![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-475569?style=for-the-badge)
-
----
-
-## Current Direction
-
-I am currently strengthening my work around:
-
-- AI product development and SAP HANA Cloud topics
-- RAG evaluation and retrieval quality
-- Reproducible machine learning and data science projects
-- Clear documentation for technical and non-technical reviewers
-
-My goal is to make every project understandable from three angles:
-
-```text
-Problem → Method → Evaluation → Business relevance
-```
-
----
-
-## Portfolio
-
-[raywincruz07-collab.github.io](https://raywincruz07-collab.github.io/)
-
----
-
-## Contact
-
-* GitHub: [raywincruz07-collab](https://github.com/raywincruz07-collab)
-* Email: raywincruz07@gmail.com
+## Connect
+- 🌐 [raywincruz07-collab.github.io](https://raywincruz07-collab.github.io/)
+- 👔 [LinkedIn](https://www.linkedin.com/in/raywincruz)
+- 📧 [raywincruz07@gmail.com](mailto:raywincruz07@gmail.com)
