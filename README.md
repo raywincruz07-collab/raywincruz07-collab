@@ -1,7 +1,7 @@
 # Hi, I'm Raywin Cruz
 ### AI Product Management, SAP HANA Cloud | M.Sc. Data Science @ Mannheim | Applied AI, RAG & ML Systems
 
-I am a data scientist and AI product manager focused on building measurable, deterministic AI systems and data products. My work spans multi-agent supply chain optimization, diversity-aware RAG evaluations, and LLM-assisted NLP pipelines.
+I am an M.Sc. Data Science student working in AI Product Management for SAP HANA Cloud, with a focus on applied AI, RAG evaluation, and reproducible machine-learning systems. My work spans multi-agent supply chain optimization, diversity-aware RAG evaluations, and LLM-assisted NLP pipelines.
 
 ## Featured Work
 
@@ -34,7 +34,7 @@ I am a data scientist and AI product manager focused on building measurable, det
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ## Current Focus
-- Developing robust, deterministic agentic workflows over SAP HANA data models.
+- 🔭 **Current Focus:** Exploring reliable agentic workflows and applied AI use cases for enterprise data platforms.
 - Evaluating retrieval components and generation limits in RAG architectures.
 - Engineering reproducible research pipelines using R, Python, and open-source tooling.
 
